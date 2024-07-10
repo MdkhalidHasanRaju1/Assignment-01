@@ -151,7 +151,7 @@
     /* border: 2px solid blue; */
 }
 .isp-vedio-content video{
-    idth: 1076px;
+    width: 1076px;
     height: 550px;
     border-radius: 15px;
     margin-left: 25px;
